@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/vansh_s_" target="blank"><img src="https://img.shields.io/twitter/follow/vansh_s_?logo=twitter&style=for-the-badge" alt="vansh_s_" /></a> </p>
 
-- 🔭 I’m currently working on [responsive Dragon Game](#soon)
+- 🔭 I’m currently working on [responsive Dragon Game](https://dinogame26.netlify.app/)
 
 - 🌱 I’m currently learning **React**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13CHkv3vJKRZT5D5Pd0kGIQFhbQWMkjA4/view?usp=sharing](https://drive.google.com/file/d/13CHkv3vJKRZT5D5Pd0kGIQFhbQWMkjA4/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13CHkv3vJKRZT5D5Pd0kGIQFhbQWMkjA4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
