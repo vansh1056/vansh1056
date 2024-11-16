@@ -1,27 +1,67 @@
 <h1 align="center">Hi 👋, I'm VANSH</h1>
-<h3 align="center">I'm Vansh, a tech-savvy B.Tech student on a mission. I love solving problems with code, from apps to algorithms. I'm a lifelong learner, always staying ahead in the dynamic world of tech. Join me as I shape the future, one line of code at a time! 💻🚀🌟</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh1056&label=Profile%20views&color=0e75b6&style=flat" alt="vansh1056" /> </p>
+<h3 align="center">💻 Tech Enthusiast | 🌟 Lifelong Learner | 🚀 Problem Solver</h3>
 
-<p align="left"> <a href="https://twitter.com/vansh_s_" target="blank"><img src="https://img.shields.io/twitter/follow/vansh_s_?logo=twitter&style=for-the-badge" alt="vansh_s_" /></a> </p>
-
-- 🔭 I’m currently working on [responsive Dragon Game](https://dinogame26.netlify.app/)
-
-- 🌱 I’m currently learning **React**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13CHkv3vJKRZT5D5Pd0kGIQFhbQWMkjA4/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vansh_s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vansh_s_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vansh-singh-9b687a285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vansh-singh-9b687a285" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_vansh_s._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_vansh_s._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user5812wt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5812wt" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer+%E2%9C%A8;Coding+to+Create+Impact%21">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" background-colour="darkgray"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh1056&show_icons=true&locale=en" alt="vansh1056" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh1056&" alt="vansh1056" /></p>
+### 🚀 About Me
+- 🔭 Currently working on [Responsive Dragon Game](https://dinogame26.netlify.app/)  
+- 🌱 Learning **React** to expand my front-end expertise.  
+- 🎯 Passionate about solving real-world problems through code.  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1rh9vQIcFnkhq5c4DZebYrPrjXnnuiSuX/view?usp=sharing)  
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/vansh_s_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/vansh-singh-9b687a285" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/_vansh_s._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://leetcode.com/user5812wt" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+### 🏆 GitHub Highlights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh1056&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh1056&theme=radical" alt="GitHub Streaks">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh1056&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+### 📂 Featured Projects
+#### 🕹️ [Responsive Dragon Game](https://dinogame26.netlify.app/)  
+> An engaging game where a dragon jumps over obstacles, built using HTML, CSS, and JavaScript.
+
+#### 🌦️ [Weather Site](#)  
+> A web app providing weather and wind speed data for any city. Built with HTML, CSS, and JavaScript.  
+
+#### 🕸️ [Zomato Landing Page](#)  
+> A visually appealing landing page for Zomato, designed using HTML and CSS.
+
+---
+
+### ⚡ Fun Fact
+- When I'm not coding, you'll find me experimenting with new tech, playing games, or watching sci-fi movies! 🌌🎮
+- Let's build something amazing together! 🤝
