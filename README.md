@@ -54,7 +54,7 @@
 #### 🕹️ [Responsive Dragon Game](https://dinogame26.netlify.app/)  
 > An engaging game where a dragon jumps over obstacles, built using HTML, CSS, and JavaScript.
 
-#### 🌦️ [Weather Site](#)  
+#### 🌦️ [Weather Site](weather-0site.netlify.app/)  
 > A web app providing weather and wind speed data for any city. Built with HTML, CSS, and JavaScript.  
 
 #### 🕸️ [Zomato Landing Page](#)  
